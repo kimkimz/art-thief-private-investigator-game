@@ -1,4 +1,31 @@
-# Sample JavaFX application using Proxy API
+# Guess Who's the Thief- Interactive Mystery Game
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+
+**Guess Who's the Thief** is an interactive, AI-driven mystery game that challenges players to uncover clues, interrogate suspects, and solve a high-stakes art theft case. This project combines gameplay with AI-powered dialogue and voice interaction, creating an engaging experience for players.
+
+## Team Collaboration
+
+| Team Member     | GitHub                                          |
+| --------------- | ----------------------------------------------- |
+| Johnson Zhang   | [@ZingZing001](https://github.com/ZingZing001)  |
+| Kimberly Zhu    | [@kimkimz](https://github.com/kimkimz)          |
+| Nicky Tian      | [@Nicky8566](https://github.com/nicky8566)      |
+
+## Key Features
+- **AI-Powered Dialogue**: Uses OpenAI's Chat Completions to provide unique, interactive feedback based on the player's choices.
+- **Timer Management**: Real-time countdown timers across scenes to keep the gameplay exciting and synchronized.
+- **Interactive Cutscenes**: Smooth transitions between dialogues with auto-skip functionality.
+- **Sound Integration**: Custom MP3 playback for sound effects during gameplay and cutscenes.
+
+## Gameplay Controls
+- **Movement**: Mouse and keyboard interactions to select suspects and submit answers.
+- **Key Bindings**:
+  - **Skip Cutscene**: `Enter` key skips current dialogue.
+  - **Submit Answer**: Press the `Submit` button or hit `Enter` to confirm your guess.
+  - **Interact**: Click on suspects or clues to investigate them.
 
 ## To setup the API to access Chat Completions and TTS
 
